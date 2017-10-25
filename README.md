@@ -33,9 +33,9 @@ REQUIRED ANSWERS
 
 * What is the largest network you managed to deal with for each type of topology and algorithm
 
-               | FULL          | IMP 2D        | 2D            | LINE        |
- GOSSIP        | 80000 nodes   | 80000 nodes   | 130000 nodes  | 130000 nodes|
- PUSHSUM       | 130000 nodes  | 130000 nodes  | 120000 nodes  | 130000 nodes|   
+                | FULL          | IMP 2D        | 2D            | LINE        |
+ |GOSSIP        | 80000 nodes   | 80000 nodes   | 130000 nodes  | 130000 nodes|
+ |PUSHSUM       | 130000 nodes  | 130000 nodes  | 120000 nodes  | 130000 nodes|   
 
  Trying larger than the above values led to the following error 19:44:59.632 [error] Too many processes
 
