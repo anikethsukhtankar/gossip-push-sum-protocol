@@ -30,15 +30,6 @@ REQUIRED ANSWERS
   - In conclusion, All the Topologies have been implemented for both Push Sum and Gossip algorithm. I have also implemented a failure model and tested it with multiple parameters (Number of killed nodes, Number of nodes triggered at initiation and Conergence criteria). I have tested the failure model on all the topologies as well as both Push Sum and Gossip algorithms.
   - The advantages of the gossip algorithms are that they are completely decentralized, have excellent fault tolerance, are Iterative and probabilistic which makes them imperfect. The algorithms run fast in certain scenarios and slow in others. The Push Sum algorithm is good for computing sum and can be extended to compute many types of linear functions, random sampling, quantiles, etc.
 
-
-* What is the largest network you managed to deal with for each type of topology and algorithm
-
-                | FULL          | IMP 2D        | 2D            | LINE        |
- |GOSSIP        | 80000 nodes   | 80000 nodes   | 130000 nodes  | 130000 nodes|
- |PUSHSUM       | 130000 nodes  | 130000 nodes  | 120000 nodes  | 130000 nodes|   
-
- Trying larger than the above values led to the following error 19:44:59.632 [error] Too many processes
-
 INTRODUCTION
 ------------
 The project folder contains 2 folders:
