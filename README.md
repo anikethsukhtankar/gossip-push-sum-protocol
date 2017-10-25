@@ -1,9 +1,3 @@
-# gossip-push-sum-protocol
-
-Authors
-
-Shikha Mehta (UF ID 4851 9256)
-Aniketh Sukhtankar (UF ID 7819 9584)
 -------------------------------------------------------
  DISTRIBUTED OPERATING SYSTEM - GOSSIP SIMULATOR 
 -------------------------------------------------------
